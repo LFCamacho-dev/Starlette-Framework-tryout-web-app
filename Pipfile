@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 starlette = {extras = ["full"], version = "*"}
+uvicorn = "*"
 
 [dev-packages]
 
